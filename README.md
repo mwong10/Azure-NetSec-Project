@@ -23,5 +23,5 @@ The files here are from a project I completed for a cybersecurity class. It pull
 
 ### Network Diagram
 
-<img src="Diagrams/Azure_Network_Diagram.png" alt="Network_Diagram" title="Azure_Network_Diagram" width="75%" />
+<img src="diagrams/Azure_Network_Diagram.png" alt="Network_Diagram" title="Azure_Network_Diagram" width="75%" />
 
