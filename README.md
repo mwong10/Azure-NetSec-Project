@@ -15,11 +15,19 @@ The files here are from a project I completed for a cybersecurity class. It pull
 - 3 machines, each running filebeat and metricbeat for logs and a dockerized DVWA (Damn Vulnerable Web Application). 
 - 1 machine configured to run an ELK stack for the network monitoring system
 
-**Security**
+**Network**
 
 - Two Virtual Network Security Groups each running a virtual network
-    - 
+    - 1 network on 10.1.0.0/16
+        - ELK stack
+    - 1 network on 10.0.0.0/16
+        - 3 DVWA machines
+- A loadbalancer to provide redundancy and failover support
 
+**Security** 
+
+- Access to servers only allowed via SSH with a key
+- Access further limited to specific IP addresses
 
 ### Network Diagram
 
