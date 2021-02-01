@@ -9,5 +9,6 @@
     remote_user: azadmin
     become: True
     roles:
+      - install-dvwa
       - install-filebeat
       - install-metricbeat
