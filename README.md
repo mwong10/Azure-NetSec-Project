@@ -1,5 +1,5 @@
 ## Azure-NetSec-Project
-Network diagram and Ansible scripts from cybersecurity class project
+Network diagram and Ansible scripts from cybersecurity class project; misc. bash scripts from earlier projects
 
 ### Background
 
